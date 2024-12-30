@@ -1,4 +1,4 @@
-# ScreenChatBridgeBot
+# GameChat2Discord (ScreenChatBridgeBot)
 
 A Discord bot that bridges game chat with Discord by monitoring screen regions and simulating keyboard input.
 
